@@ -1,0 +1,38 @@
+export const products = [
+  {
+    id: 1,
+    image: "https://picsum.photos/60?1",
+    name: "MacBook Pro M3",
+    sku: "LP1001",
+    category: "Laptop",
+    price: 2499,
+    stock: 25,
+  },
+  {
+    id: 2,
+    image: "https://picsum.photos/60?2",
+    name: "Dell XPS 15",
+    sku: "LP1002",
+    category: "Laptop",
+    price: 1899,
+    stock: 12,
+  },
+  {
+    id: 3,
+    image: "https://picsum.photos/60?3",
+    name: "iPhone 16 Pro",
+    sku: "PH1001",
+    category: "Phone",
+    price: 1299,
+    stock: 40,
+  },
+  {
+    id: 4,
+    image: "https://picsum.photos/60?4",
+    name: "Samsung Monitor",
+    sku: "MN1001",
+    category: "Monitor",
+    price: 399,
+    stock: 8,
+  },
+];
