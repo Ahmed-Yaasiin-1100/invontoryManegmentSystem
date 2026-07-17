@@ -23,7 +23,7 @@ const Login = () => {
     e.preventDefault();
 
     if (
-      formData.email === "admin@gmail.com" &&
+      formData.email === "invontory@gmail.com" &&
       formData.password === "123456"
     ) {
       localStorage.setItem("isLoggedIn", "true");
